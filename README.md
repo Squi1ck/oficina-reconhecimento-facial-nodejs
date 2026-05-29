@@ -1,1 +1,7 @@
 # oficina-reconhecimento-facial-nodejs
+
+# url api 
+https://jedbzxzqynxpjpdpensz.supabase.co/rest/v1/
+
+# chave api
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImplZGJ6eHpxeW54cGpwZHBlbnN6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwNTgxODksImV4cCI6MjA5NTYzNDE4OX0.JgBNRi33xR85XngSCyEJwV8fXTCJQk0fPI86_jGOVis
